@@ -1,3 +1,4 @@
+transformers
 sentence-transformers
 langchain
 flask
